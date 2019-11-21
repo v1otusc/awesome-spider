@@ -18,6 +18,7 @@
 * [百度云网盘](https://github.com/gudegg/yunSpider)
 * [琉璃神社爬虫](https://github.com/Chion82/hello-old-driver)
 * [Boss 直聘](https://github.com/xianyunyh/spider_job)
+* [贝壳网找房爬虫](https://github.com/qzcool/Ke)
 
 ### C
 * [cnblog](https://github.com/jackgitgz/CnblogsSpider)
@@ -31,6 +32,7 @@
 * [DNS记录和子域名](https://github.com/TheRook/subbrute)
 * [DHT网络磁力种子爬虫](https://github.com/chenjiandongx/magnet-dht)
 * [抖音](https://github.com/Python3WebSpider/DouYin)
+* [抖音推荐](https://github.com/cnbattle/douyin)
 
 ### E
 * [E绅士](https://github.com/shuiqukeyou/E-HentaiCrawler)
@@ -40,6 +42,7 @@
 * [girl13](https://github.com/xuelangcxy/girlCrawler)
 * [github trending](https://github.com/bonfy/github-trending)
 * [Github 仓库及用户分析爬虫](https://github.com/chenjiandongx/Github)
+* [国家统计用区划代码和城乡划分代码爬虫](https://github.com/dta0502/NBSPRC-spider)
 
 ### H
 * [HDOJ爬虫](https://github.com/stevenshuang/spider/tree/master/hdoj)
@@ -57,6 +60,7 @@
 * [煎蛋妹纸selenium版本](https://github.com/Tony-Chiong/jandan_spider)
 * [今日头条，网易，腾讯等新闻](https://github.com/lzjqsdd/NewsSpider)
 * [计算机书籍控图书](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90/Book)
+* [JK (制服写真) 爬虫](https://github.com/CourierKyn/jkcrawler)
 
 ### K
 * [看知乎](https://github.com/atonasting/zhihuspider)
@@ -99,6 +103,7 @@
 * [清华大学网络学堂爬虫](https://github.com/kehao95/thu_learn)
 * [去哪儿](https://github.com/lining0806/QunarSpider)
 * [前程无忧Python招聘岗位信息爬取分析](https://github.com/chenjiandongx/51job)
+* [qqzhpt美女写真爬虫/批量下载](https://github.com/Wildwizard404/qqzhpt-spider)
 
 ### R
 * [人人影视](https://github.com/gnehsoah/yyets-spider)
@@ -124,6 +129,7 @@
 * [Tmall 女性文胸尺码爬虫](https://github.com/chenjiandongx/cup-size)
 * [淘宝直播弹幕爬虫(node)](https://github.com/xiaozhongliu/taobao-live-crawler)
 * [天涯论坛文章](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90/%E7%88%AC%E5%8F%96%E8%AE%BA%E5%9D%9B%E6%96%87%E7%AB%A0)
+* [天眼查爬虫](https://github.com/qzcool/Tianyancha)
 
 
 ### V
@@ -147,6 +153,7 @@
 * [新浪微博](https://github.com/LiuXingMing/SinaSpider)
 * [新浪微博分布式爬虫](https://github.com/ResolveWang/weibospider)
 * [心灵毒鸡汤](https://github.com/sy-records/speech_spiders/tree/master/chicken-soup)
+* [闲鱼最新商品爬取](https://github.com/DropsDevopsOrg/ECommerceCrawlers/tree/master/XianyuCrawler)
 
 ### Y
 * [英美剧 TV (node.js)](https://github.com/pockry/tv-crawler)
@@ -159,6 +166,7 @@
 * [知乎妹子](https://github.com/yjm12321/zhihu-girl)
 * [自如实时房源提醒](https://github.com/facert/ziroom_realtime_spider)
 * [中国大陆高校列表爬虫](https://github.com/codeudan/crawler-china-mainland-universities.git)
+* [站酷（zcool.com.cn）图片爬虫](https://github.com/lonsty/scraper)
 ### \#
 * [80s 影视资源爬虫 - JianSo_Movie](https://github.com/but0n/JianSo_Movie)
 
